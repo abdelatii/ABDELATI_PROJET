@@ -22,3 +22,14 @@ padding:6px;
 color:#FFFFFF;
 text-decoration:none;
 }
+
+#entete_communication{
+background:#FBA30B;
+height:118px;
+}
+#contenaire{
+height:950px;
+}
+body{
+margin:auto;
+}
